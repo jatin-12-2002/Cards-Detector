@@ -9,4 +9,4 @@ Enter the following commands
 
 ## Also upload model_final.pth file in this repository before running the APP
 
-Download from file from [here](https://drive.google.com/file/d/1H-z8fJN_d8_LrdyHupCDO1f5VsShFYM0/view?usp=drive_link)
+Download file from [here](https://drive.google.com/file/d/1H-z8fJN_d8_LrdyHupCDO1f5VsShFYM0/view?usp=drive_link)
