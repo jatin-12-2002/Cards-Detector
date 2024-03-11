@@ -2,7 +2,7 @@
 
 Enter the following commands
 
-sudo apt-get update
+* sudo apt-get update
 sudo apt-get install mesa-utils
 sudo apt-get install libgl1-mesa-glx
 
